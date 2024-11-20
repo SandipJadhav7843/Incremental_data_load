@@ -4,6 +4,7 @@ This pipeline is designed to process only unprocessed files, load them into the 
 ## Introduction
 Data Pipeline Description:
 This pipeline is designed to process only unprocessed files, load them into the target system, and then update a control table in Hive with the filenames that were successfully processed.
+This pipeline save the cost 50%.
 
 ### Key Features:
 Pipeline for Processing Only Unprocessed Files
