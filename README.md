@@ -28,4 +28,22 @@ Google Cloud Dataproc: Manages the processing of files using PySpark.
 Apache Hive: Used for metadata management and control table updates.
 Google Cloud Storage (GCS): Stores source files that are processed by the pipeline.
 
+## PIPELINE FLOW SCREENSHOT -
+![PIPELINE FLOW](https://github.com/SandipJadhav7843/Incremental_data_load/blob/main/Pipeline_Flow.png)
+
+
+
+## Source  -
+
+![Source](https://github.com/SandipJadhav7843/Incremental_data_load/blob/main/source_path.png)
+
+
+## Target -
+
+![Target](https://github.com/SandipJadhav7843/Incremental_data_load/blob/main/target_path.png)
+
+
+## After completing Execution job updated the control table with processed files name 
+
+![Control Table](https://github.com/SandipJadhav7843/Incremental_data_load/blob/main/hive_control_table_screenshot.png)
 
